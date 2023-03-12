@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+
+{
+printf("nitin chutiya hai");
+return 0;
+}
+
+    
